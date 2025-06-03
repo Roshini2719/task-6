@@ -1,0 +1,52 @@
+Step 1: Understand Password Strength
+Before creating passwords, understand what makes a password strong:
+
+Length: Longer passwords are stronger.
+
+Complexity: Mix of uppercase, lowercase, numbers, and symbols.
+
+Unpredictability: Avoid dictionary words, patterns (like "123456"), or personal info.
+
+No reuse: Don't use the same password across multiple accounts.
+
+Step-2: Create Multiple Passwords
+
+Step 3: Test Passwords with Online Tools
+Use a site like https://passwordmeter.com 
+
+For each password:
+
+Enter it in the tool.
+
+Record the score, estimated time to crack, and feedback (e.g., “too short,” “dictionary word used”).
+
+Step 4: Record Results in a Table
+
+Step 5: Analyze and Identify Best Practices
+Based on results, list what makes a password strong:
+
+✅ Use 12+ characters
+✅ Mix uppercase, lowercase, numbers, and symbols
+✅ Avoid dictionary words or common substitutions (like "0" for "o")
+✅ Avoid personal info or keyboard patterns
+✅ Use random strings or a password manager
+
+Step 6: Research Common Password Attacks
+Briefly explain these:
+
+Brute Force: Tries all combinations. Longer, complex passwords resist this better.
+
+Dictionary Attack: Uses common words. Avoiding dictionary words reduces risk.
+
+Credential Stuffing: Uses leaked passwords. Don't reuse passwords.
+
+Phishing: Not related to strength but gaining the password via trickery.
+
+Step 7: Summarize How Complexity Affects Security
+Longer, complex passwords exponentially increase cracking time.
+
+A 6-character simple password can be cracked in seconds.
+
+A 12-character random password can take millions of years.
+
+Simple substitutions (like “P@ssw0rd”) are still predictable and weak.
